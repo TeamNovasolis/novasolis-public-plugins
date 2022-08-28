@@ -1,0 +1,23 @@
+{
+  "name": "novasolis",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "TeamNovasolis",
+  "license": "Proprietary",
+  "engines": {
+    "node": ">=16.17.0",
+    "pnpm": ">=7.9.0"
+  },
+  "volta": {
+    "node": "16.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}
